@@ -137,6 +137,12 @@ html {
 }
 
 /* Styles */
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  color: #24355a;
+}
+
 .navbar-icons {
   height:$icon-size;
   width:$icon-size;
